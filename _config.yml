@@ -1,0 +1,28 @@
+name: Technically Speaking
+favicon: null
+layout_spectrum: 0.19006090448237956
+typography_spectrum: 0.7064588943030685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.37132059782743454
+  lightness: 0.8662915020249784
+  saturation: 0.2609291223343462
+  rhythmicContrast: 0.7213736926205456
+purpose: []
