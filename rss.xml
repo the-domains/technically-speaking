@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Technically Speaking]]></title>
+        <description><![CDATA[Technically Speaking]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 12:05:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[//HackZurich]]></title>
+            <description><![CDATA[<article><h1>//HackZurich</h1><p>My girlfriend had been enamoured. 300 hundred plus code enthusiasts, students and professionals all working together. It encompasses all that she loves about technology. Projects to change the world, forging bonds and harnessing ideas or just there to learn a new language or framework.</p></article>]]></description>
+            <link>undefinedhackzurich/index.html</link>
+            <guid isPermaLink="false">b355d4bd-d732-4740-b4e7-10b928df61b3</guid>
+            <pubDate>Sun, 01 May 2016 12:05:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
