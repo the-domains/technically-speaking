@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Technically Speaking]]></title>
         <description><![CDATA[Technically Speaking]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/technically-speaking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 12:05:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 12:51:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/technically-speaking/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[//HackZurich]]></title>
             <description><![CDATA[<article><h1>//HackZurich</h1><p>My girlfriend had been enamoured. 300 hundred plus code enthusiasts, students and professionals all working together. It encompasses all that she loves about technology. Projects to change the world, forging bonds and harnessing ideas or just there to learn a new language or framework.</p></article>]]></description>
-            <link>undefinedhackzurich/index.html</link>
+            <link>https://thegrid.ai/technically-speaking/hackzurich/index.html</link>
             <guid isPermaLink="false">b355d4bd-d732-4740-b4e7-10b928df61b3</guid>
             <pubDate>Sun, 01 May 2016 12:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Game Jam - Zurich 2015]]></title>
+            <description><![CDATA[<article><h1>Game Jam - Zurich 2015</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/technically-speaking/game-jam-zurich-2015/index.html</link>
+            <guid isPermaLink="false">4dca0787-0ecd-4710-a778-fec8fe77e78b</guid>
+            <pubDate>Sun, 01 May 2016 12:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
