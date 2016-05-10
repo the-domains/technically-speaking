@@ -4,7 +4,7 @@
         <description><![CDATA[Technology & Scripting]]></description>
         <link>https://thegrid.ai/technically-speaking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 19:30:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/technically-speaking/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[//HackZurich]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/technically-speaking/hackzurich/index.html</link>
             <guid isPermaLink="false">b355d4bd-d732-4740-b4e7-10b928df61b3</guid>
             <pubDate>Sun, 01 May 2016 12:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me - Reece Bailey the IT Proffesional ]]></title>
+            <description><![CDATA[<article><h1>About me - Reece Bailey the IT Proffesional </h1><p>While studying cinema, I was also being paid for web design and tinkering with PCs.</p></article>]]></description>
+            <link>https://thegrid.ai/technically-speaking/about-me-reece-bailey-the-it-proffesional/index.html</link>
+            <guid isPermaLink="false">d2306ada-d44a-4021-979e-302e92e3c030</guid>
+            <pubDate>Tue, 10 May 2016 19:30:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hackerank - 10 Days]]></title>
