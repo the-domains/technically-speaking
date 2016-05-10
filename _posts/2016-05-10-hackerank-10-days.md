@@ -1,21 +1,16 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: "I always have this issue with the classic web languages, that they're constantly familiar, and yet just out of grasp. In work and general tooling about on the internet I am always popping open the inspector and taking a look under the hood. I'm normally sharp enough with CSS3, as I've also made a number of sites since I stopped getting paid for doing so, and I'm a fan of what I've seen of Node..."
-datePublished: '2016-05-10T19:12:07.494Z'
-dateModified: '2016-05-10T19:11:53.662Z'
-title: Hackerank - 10 Days
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+dateModified: '2016-05-10T20:03:31.553Z'
+datePublished: '2016-05-10T20:04:18.778Z'
+hasPage: true
+inFeed: true
+inNav: true
+keywords: []
+publisher: {}
+title: Hackerank - 10 Days
+description: "I always have this issue with the classic web languages, that they're constantly familiar, and yet just out of grasp. In work and general tooling about on the internet I am always popping open the inspector and taking a look under the hood. I'm normally sharp enough with CSS3, as I've also made a number of sites since I stopped getting paid for doing so, and I'm a fan of what I've seen of Node..."
+author: []
+starred: true
 sourcePath: _posts/2016-05-10-hackerank-10-days.md
 url: hackerank-10-days/index.html
 _type: Article
@@ -41,7 +36,7 @@ So with a new mindset, I've had 10 days back in Javascript with Hackerrank, and 
 
 But then I was really impressed with myself with this Hourglass challenge. Given a 6 x 6 grid of numbers in a 2d array, you had to calculate the maximum value a "shape" had in the array. I had given myself a lunch hour for the task, but my submission was uploaded and working in under 20 minutes! That's night and day compared to the basic operations I was doing before, and I had no question requiring a search engine or code book. I new all the skills already.
 
-So. On the whole its been fun and rewarding. As Hackerrank are keen to point out, a little every day does help. And when it comes to Javascript - whether we love it or hate it -- its not going anywhere anytime soon. 
+So. On the whole its been fun and rewarding. As Hackerrank are keen to point out, a little every day does help. And when it comes to Javascript - whether we love it or hate it -- its not going anywhere anytime soon.
 
 [0]: https://www.hackerrank.com/domains/tutorials/30-days-of-code
 [1]: https://www.codecademy.com/
