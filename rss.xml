@@ -4,21 +4,21 @@
         <description><![CDATA[Technically Speaking - Technology & Scripting from Reece]]></description>
         <link>https://thegrid.ai/technically-speaking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 20:38:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/technically-speaking/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hackerank - 10 Days]]></title>
+            <description><![CDATA[<article><h1>Hackerank - 10 Days</h1><h2>Familiar and Forgotten</h2><p>I always have this issue with the classic web languages, that they're constantly familiar, and yet just out of grasp. In work and general tooling about on the internet I am always popping open the inspector and taking a look under the hood. I'm normally sharp enough with CSS3, as I've also made a number of sites since I stopped getting paid for doing so, and I'm a fan of what I've seen of Node...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6514f9f4b5e4625ee14dafd5fa5c59decb2dcb92.png"></article>]]></description>
+            <link>https://thegrid.ai/technically-speaking/hackerank-10-days/index.html</link>
+            <guid isPermaLink="false">f09f3ee4-fa96-44e7-8670-e62a0472afe4</guid>
+            <pubDate>Tue, 10 May 2016 20:38:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About me - Reece Bailey the IT Proffesional]]></title>
             <description><![CDATA[<article><h1>About me - Reece Bailey the IT Proffesional</h1><p>While studying cinema, I was also being paid for web design and tinkering with PCs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6cac946438838dfb2a0555548714d51512668f0.jpg"></article>]]></description>
             <link>https://thegrid.ai/technically-speaking/about-me-reece-bailey-the-it-proffesional/index.html</link>
             <guid isPermaLink="false">d2306ada-d44a-4021-979e-302e92e3c030</guid>
             <pubDate>Tue, 10 May 2016 20:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackerank - 10 Days]]></title>
-            <description><![CDATA[<article><h1>Hackerank - 10 Days</h1><h2>Familiar and Forgotten</h2><p>I always have this issue with the classic web languages, that they're constantly familiar, and yet just out of grasp. In work and general tooling about on the internet I am always popping open the inspector and taking a look under the hood. I'm normally sharp enough with CSS3, as I've also made a number of sites since I stopped getting paid for doing so, and I'm a fan of what I've seen of Node...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6514f9f4b5e4625ee14dafd5fa5c59decb2dcb92.png"></article>]]></description>
-            <link>https://thegrid.ai/technically-speaking/hackerank-10-days/index.html</link>
-            <guid isPermaLink="false">f09f3ee4-fa96-44e7-8670-e62a0472afe4</guid>
-            <pubDate>Tue, 10 May 2016 20:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[//HackZurich]]></title>
