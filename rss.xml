@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Technically Speaking]]></title>
-        <description><![CDATA[Technically Speaking]]></description>
+        <title><![CDATA[Technology & Scripting]]></title>
+        <description><![CDATA[Technology & Scripting]]></description>
         <link>https://thegrid.ai/technically-speaking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 12:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 19:12:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/technically-speaking/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[//HackZurich]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/technically-speaking/hackzurich/index.html</link>
             <guid isPermaLink="false">b355d4bd-d732-4740-b4e7-10b928df61b3</guid>
             <pubDate>Sun, 01 May 2016 12:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackerank - 10 Days]]></title>
+            <description><![CDATA[<article><h1>Hackerank - 10 Days</h1><h2>Familiar and Forgotten</h2><p>I always have this issue with the classic web languages, that they're constantly familiar, and yet just out of grasp. In work and general tooling about on the internet I am always popping open the inspector and taking a look under the hood. I'm normally sharp enough with CSS3, as I've also made a number of sites since I stopped getting paid for doing so, and I'm a fan of what I've seen of Node...</p></article>]]></description>
+            <link>https://thegrid.ai/technically-speaking/hackerank-10-days/index.html</link>
+            <guid isPermaLink="false">f09f3ee4-fa96-44e7-8670-e62a0472afe4</guid>
+            <pubDate>Tue, 10 May 2016 19:12:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Game Jam - Zurich 2015]]></title>
