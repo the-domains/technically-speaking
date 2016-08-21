@@ -1,20 +1,4 @@
-name: Technically Speaking
-favicon: null
-layout_spectrum: 0.5002488857135177
 typography_spectrum: 0.6491053618956357
-title: Technically Speaking - Technology & Scripting from Reece
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.8125
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5002488857135177
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Technically Speaking
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Github
+    url: 'https://github.com/Riice'
+    type: external
+favicon: null
+title: Technically Speaking - Technology & Scripting from Reece
 purpose: []
