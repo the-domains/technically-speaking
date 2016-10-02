@@ -1,15 +1,16 @@
-typography_spectrum: 0.6491053618956357
+typography_spectrum: 0.39814856671728194
 color:
   brandColors:
+    - '#DB1F6A'
     - '#000000'
-    - '#0e76c3'
-    - '#ff73ff'
-    - '#49c0ff'
-    - '#ffc65e'
-  brandStrength: 0.4375
-  lightness: 0.8125
-  saturation: 0.375
-  rhythmicContrast: 0.75
+    - '#F24A15'
+    - '#1516E8'
+    - '#82123E'
+  brandStrength: 0.824744786368683
+  lightness: 0.12753528449684381
+  saturation: 0.6461566172074527
+  rhythmicContrast: 0.09581573982723057
+github: true
 opengraph:
   image: null
   type: null
@@ -19,15 +20,22 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afd95406-e8ac-4569-b444-a15e75f74b02.png
 name: Technically Speaking
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: Github
+  - name: '--> Github'
     url: 'https://github.com/Riice'
     type: external
-favicon: null
-title: Technically Speaking - Technology & Scripting from Reece
+  - name: '--> CodePen'
+    url: 'http://codepen.io/Riice-1471779039/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50566be8-1d20-44e6-a806-21861a9c31a4.png
+title: Technically Speaking
+description: Technology & Scripting
 purpose: []
