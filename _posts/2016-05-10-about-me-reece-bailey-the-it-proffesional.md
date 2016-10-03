@@ -1,22 +1,25 @@
 ---
-authors: []
-dateModified: '2016-05-10T20:07:11.533Z'
-datePublished: '2016-05-10T20:07:21.425Z'
-hasPage: true
+datePublished: '2016-10-03T11:22:03.920Z'
 inFeed: true
-inNav: true
+hasPage: true
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-10-03T11:22:02.680Z'
+title: About me
 publisher: {}
-title: About me - Reece Bailey the IT Proffesional
-description: 'While studying cinema, I was also being paid for web design and tinkering with PCs.'
-author: []
-starred: true
+description: >-
+  While studying cinema, I was also being paid for web design and tinkering with
+  PCs.
+starred: false
 sourcePath: _posts/2016-05-10-about-me-reece-bailey-the-it-proffesional.md
 url: about-me-reece-bailey-the-it-proffesional/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2704dcba-4c4f-4395-a339-95fb9ea8b935.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6cac946438838dfb2a0555548714d51512668f0.jpg)
 
 While studying cinema, I was also being paid for web design and tinkering with PCs.
 
